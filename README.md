@@ -1,7 +1,7 @@
-# Fifa20-Clustering
+# FIFA20 CLUSTERING 
 
 
-INTRODUCTION OF PROJECT:
+## INTRODUCTION OF PROJECT:
 
 
 ![image](https://user-images.githubusercontent.com/101791322/180652410-baff699d-d655-4ad9-a57c-fcd8324090cc.png)
@@ -9,11 +9,11 @@ INTRODUCTION OF PROJECT:
 FIFA 20 is a football simulation video game published by Electronic Arts as part of the FIFA series. It is the 27th installment in the FIFA series, and was released on 27 September 2019 for Microsoft Windows, PlayStation 4, Xbox One, and Nintendo Switch.
 
 
-BUISNESS CASE: WITH THE FIFA20 DATASET WE NEED TO CLUSTER THE PLAYER BY THEIR SKILL INTO CERTAIN GROUP
+### BUISNESS CASE: WITH THE FIFA20 DATASET WE NEED TO CLUSTER THE PLAYER BY THEIR SKILL INTO CERTAIN GROUP
 
-TASK: CLUSTERING
+#### TASK: CLUSTERING
 
-DOMAIN ANALYSIS OF FEATURE:
+## DOMAIN ANALYSIS OF FEATURE:
 
 * SOFIFA-ID: Id of fifa20 player
 
